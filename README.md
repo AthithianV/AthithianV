@@ -5,15 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=athithianv" alt="athithianv" /></a> </p>
 
-- 🔭 I’m currently working on [a Chat Application](https://github.com/AthithianV/chatup)
-
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **React, Express, MySQL, MongoDB, Java**
 
 - 📫 How to reach me **athithianpkt2001@gmail.com**
-
-- ⚡ Fun fact **<Coding/> Is Fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
