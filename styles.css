@@ -1,0 +1,15 @@
+.skills{
+    background-color:white;
+    padding:5px;
+    border-radius: 10px;
+    width: fit-content;
+    margin: 10px 0;
+}
+
+.logo{
+    height: 40px;
+    width: 40px;
+    background-color: white;
+    padding: 2px;
+    border-radius: 5px;
+}
