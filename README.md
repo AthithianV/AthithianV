@@ -34,45 +34,30 @@
 
 <h2 align="left">Languages and Tools:</h2>
 <div class="skills">
-<div align="left">
 <img src="./images/languages/html.svg" alt="html5" class="logo" height=40 width=40/>
 <img src="./images/languages/CSS.svg" alt="css3" class="logo" height=40 width=40/>
 <img src="./images/languages/javascript.svg" alt="javascript" class="logo" height=40 width=40/>
 <img src="./images/languages/typescript.svg" alt="typescript" class="logo" height=40 width=40/>
 <img src="./images/languages/java.svg" alt="java" class="logo" height=40 width=40/>
 <img src="./images/languages/CProgramming.svg" alt="c" class="logo" height=40 width=40/>
-</div>
-
-<div align="left">
 <img src="./images/languages/nodejs.svg" alt="nodejs" class="logo" height=40 width=40/>
 <img src="./images/languages/express.svg" alt="express" class="logo" height=40 width=40/>
 <img src="./images/languages/bun.svg" alt="bun" class="logo" height=40 width=40/>
 <img src="./images/languages/hono.svg" alt="hono" class="logo" height=40 width=40/>
 <img src="./images/languages/cloudflare.svg" alt="cloudflare" class="logo" height=40 width=40/>
 <img src="./images/languages/firebase.svg" alt="firebase" class="logo" height=40 width=40/>
-</div>
-
-<div>
 <img src="./images/languages/react.svg" alt="react" class="logo" height=40 width=40/>
-<span>
 <img src="./images/languages/nextjs.svg" style="backgroud-color:white" alt="nextjs" class="logo" height=40 width=40/>
-</span>
 <img src="./images/languages/react-native.svg" style="backgroud-color:white" alt="react-native" class="logo" height=40 width=40/>
 <img src="./images/languages/redux.svg" style="backgroud-color:white" alt="redux" class="logo" height=40 width=40/>
 <img src="./images/languages/tailwindcss.svg" alt="tailwind" class="logo" height=40 width=40/>
 <img src="./images/languages/expo.svg" alt="expo" class="logo" height=40 width=40/>
-</div>
-
-<div>
 <img src="./images/languages/mysql.svg" alt="mysql" class="logo" height=40 width=40/>
 <img src="./images/languages/postgresql.svg" alt="Postgresql" class="logo" height=40 width=40/>
 <img src="./images/languages/sqllite.svg" alt="sqllite" class="logo" height=40 width=40/>
 <img src="./images/languages/mongodb.svg" alt="mongodb" class="logo" height=40 width=40/>
 <img src="./images/languages/Mongoose.svg" alt="Mongoose" class="logo" height=40 width=40/>
 <img src="./images/languages/drizzle.svg" alt="drizzle" class="logo" height=40 width=40/>
-</div>
-
-<div>
 <img src="./images/languages/git.svg" alt="git" class="logo" height=40 width=40/> 
 </div>
 </div>
