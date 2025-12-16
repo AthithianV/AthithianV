@@ -2,14 +2,6 @@
 <h1 align="center">Hi 👋, I'm Athithian V</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on **Chatting Application**
-
-- 🌱 I’m currently learning **NextJs**
-
-- 💬 Ask me about **React, Express, NextJS**
-
-- 📫 How to reach me **athithianpkt2001@gmail.com**
-
 <h2 align="left">Connect with me:</h2>
 <div align="left">
    <a href="https://linkedin.com/in/athithianv" target="blank">
