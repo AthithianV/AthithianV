@@ -10,16 +10,6 @@
          alt="athithian v" 
          class="logo" height=40 width=40/>
    </a>
-   <a href="https://www.youtube.com/c/athithianv" target="blank">
-   <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-      alt="athithianv" 
-      class="logo" height=40 width=40 />
-   </a>
-   <a href="https://www.leetcode.com/athithian_v" target="blank" ><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-      alt="athithian_v"
-      class="logo" height=40 width=40/></a>
 </div>
 
 <h2>Stats</h2>
