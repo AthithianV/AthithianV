@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="./styles.css">
 <h1 align="center">Hi 👋, I'm Athithian V</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <h2 align="left">Connect with me:</h2>
 <div align="left">
