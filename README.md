@@ -1,3 +1,5 @@
+![MasterHead](images/banner-github.png)
+
 <div align="center">
 
 <h2>Hi, I'm Athithian 👋</h2>
@@ -14,9 +16,9 @@
   </a>
 </p>
 
-<h3 align="center">
+<p align="center"><font size="6">
 Backend Engineer working with Rust to build high-performance, reliable, and scalable systems. My focus is on backend engineering, system design, API development, and database management. I also work with TypeScript and modern frontend technologies to build complete applications from backend infrastructure to user interfaces.
-</h3>
+</font></p>
 
 </div>
 
@@ -36,10 +38,10 @@ Backend Engineer working with Rust to build high-performance, reliable, and scal
 
 <h3 align="center">Backend Engineer · Rust · TypeScript</h3>
 
-<h3>🚀 At Outbox Labs, I’m part of a 25-member engineering team contributing to a business that manages over $50 million in revenue. I work on backend development and software that supports the company’s products and operations, where reliability, maintainability, and performance matter.</h3>
-<h3>🛠️ I built <a href="https://github.com/AthithianV/bullastrator">Bullastrator</a>, a native desktop application for managing, inspecting, and monitoring Redis and BullMQ queues. Built with Rust, Tauri, Svelte, and TypeScript, it brings queue management, job inspection, bulk operations, and real-time monitoring into one desktop experience.</h3>
-<h3>💡 I believe good engineering is about understanding problems, making thoughtful technical decisions, and building solutions that deliver real value. I continuously work on improving my engineering skills, exploring systems-level concepts, and building software that solves practical problems.</h3>
-<h3>📫 <b>Let's connect!</b> athithianpkt2001@gmail.com</h3>
+<font size="8">🚀 At Outbox Labs, I’m part of a 25-member engineering team contributing to a business that manages over $50 million in revenue. I work on backend development and software that supports the company’s products and operations, where reliability, maintainability, and performance matter.<br/><br/>
+🛠️ I built <a href="https://github.com/AthithianV/bullastrator">Bullastrator</a>, a native desktop application for managing, inspecting, and monitoring Redis and BullMQ queues. Built with Rust, Tauri, Svelte, and TypeScript, it brings queue management, job inspection, bulk operations, and real-time monitoring into one desktop experience.<br/><br/>
+💡 I believe good engineering is about understanding problems, making thoughtful technical decisions, and building solutions that deliver real value. I continuously work on improving my engineering skills, exploring systems-level concepts, and building software that solves practical problems.<br/><br/>
+📫 <b>Let's connect!</b> athithianpkt2001@gmail.com</font>
 
 <br/>
 
