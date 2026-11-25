@@ -20,8 +20,6 @@ Backend Engineer working with Rust to build high-performance, reliable, and scal
 
 </div>
 
-<hr/>
-
 <h2 align="center">Some of my favorite projects</h2>
 <br />
 
@@ -34,8 +32,6 @@ Backend Engineer working with Rust to build high-performance, reliable, and scal
   </a>
 </p>
 
-<hr/>
-
 <h2 align="center">About me 🦀</h2>
 
 <p align="center"><b>Backend Engineer · Rust · TypeScript</b></p>
@@ -46,14 +42,13 @@ Backend Engineer working with Rust to build high-performance, reliable, and scal
 📫 <b>Let's connect!</b> athithianpkt2001@gmail.com
 
 <br/>
-<hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img height="72" src="https://go-skill-icons.vercel.app/api/icons?i=rust,tauri,typescript,nodejs,express,react,nextjs,svelte" alt="Rust, Tauri, TypeScript, Node.js, Express, React, Next.js, and Svelte" />
+  <img height="80" src="https://go-skill-icons.vercel.app/api/icons?i=rust,tauri,typescript,nodejs,express,react,nextjs,svelte" alt="Rust, Tauri, TypeScript, Node.js, Express, React, Next.js, and Svelte" />
   <br />
-  <img height="72" src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss,postgresql,sqlite,git,claude,redis,sequelize,openai" alt="Tailwind CSS, PostgreSQL, SQLite, Git, Claude Code, Redis, Sequelize, and Codex" />
+  <img height="80" src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss,postgresql,sqlite,git,claude,redis,sequelize,openai" alt="Tailwind CSS, PostgreSQL, SQLite, Git, Claude Code, Redis, Sequelize, and Codex" />
 </div>
 
 <br/>
