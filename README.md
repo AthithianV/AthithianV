@@ -16,9 +16,7 @@
   </a>
 </p>
 
-<h5 align="center">
 Backend Engineer working with Rust to build high-performance, reliable, and scalable systems. My focus is on backend engineering, system design, API development, and database management. I also work with TypeScript and modern frontend technologies to build complete applications from backend infrastructure to user interfaces.
-</h5>
 
 </div>
 
