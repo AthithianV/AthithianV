@@ -1,51 +1,68 @@
-<link rel="stylesheet" href="./styles.css">
-<h1 align="center">Hi 👋, I'm Athithian V</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<div align="center">
 
-<h2 align="left">Connect with me:</h2>
-<div align="left">
-   <a href="https://linkedin.com/in/athithianv" target="blank">
-      <img align="center"
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         alt="athithian v" 
-         class="logo" height=40 width=40/>
-   </a>
+<h2>Hi, I'm Athithian 👋</h2>
+
+<p>
+  <a href="https://github.com/AthithianV" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/athithianv" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:athithianpkt2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p>
+Backend Engineer working with Rust to build high-performance, reliable, and scalable systems. My focus is on backend engineering, system design, API development, and database management. I also work with TypeScript and modern frontend technologies to build complete applications from backend infrastructure to user interfaces.
+</p>
+
 </div>
 
-<h2>Stats</h2>
-<div align="left">
-   <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=athithianv" alt="athithianv" />
-   </a>
+<hr/>
+
+<h2 align="center">Some of my favorite projects</h2>
+<br />
+
+<p align="center">
+  <a href="https://github.com/AthithianV/neram">
+    <img src="https://github-readme-stats-liart-kappa-50.vercel.app/api/pin/?username=AthithianV&repo=neram&bg_color=transparent&title_color=7dd3fc&text_color=cbd5e1&icon_color=38bdf8&border_color=334155&border_radius=16" alt="Neram repository" />
+  </a>
+  <a href="https://github.com/AthithianV/bullastrator">
+    <img src="https://github-readme-stats-liart-kappa-50.vercel.app/api/pin/?username=AthithianV&repo=bullastrator&bg_color=transparent&title_color=7dd3fc&text_color=cbd5e1&icon_color=38bdf8&border_color=334155&border_radius=16" alt="Bullastrator repository" />
+  </a>
+</p>
+
+<hr/>
+
+<h2 align="center">About me 🦀</h2>
+
+<p align="center"><b>Backend Engineer · Rust · TypeScript</b></p>
+
+🚀 At Outbox Labs, I’m part of a 25-member engineering team contributing to a business that manages over $50 million in revenue. I work on backend development and software that supports the company’s products and operations, where reliability, maintainability, and performance matter.<br/><br/>
+🛠️ I built <a href="https://github.com/AthithianV/bullastrator">Bullastrator</a>, a native desktop application for managing, inspecting, and monitoring Redis and BullMQ queues. Built with Rust, Tauri, Svelte, and TypeScript, it brings queue management, job inspection, bulk operations, and real-time monitoring into one desktop experience.<br/><br/>
+💡 I believe good engineering is about understanding problems, making thoughtful technical decisions, and building solutions that deliver real value. I continuously work on improving my engineering skills, exploring systems-level concepts, and building software that solves practical problems.<br/><br/>
+📫 <b>Let's connect!</b> athithianpkt2001@gmail.com
+
+<br/>
+<hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,tauri,typescript,nodejs,express,react,nextjs,svelte,tailwindcss,postgresql,sqlite,git,claude,redis,sequelize,openai" alt="Rust, Tauri, TypeScript, Node.js, Express, React, Next.js, Svelte, Tailwind CSS, PostgreSQL, SQLite, Git, Claude Code, Redis, Sequelize, and Codex" />
 </div>
 
+<br/>
+<hr/>
 
+<p align="center">
+  <img src="https://github-readme-stats-liart-kappa-50.vercel.app/api/top-langs/?username=AthithianV&layout=compact&theme=gruvbox" alt="Top languages" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=athithianv&show_icons=true&locale=en&layout=compact" alt="athithianv" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AthithianV&background=transparent&border=334155&ring=38bdf8&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=cbd5e1&dates=94a3b8" alt="GitHub contribution streak" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=athithianv&show_icons=true&locale=en" alt="athithianv" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athithianv&" alt="athithianv" /></p>
-
-<h2 align="left">Languages and Tools:</h2>
-<div class="skills">
-<img src="./images/languages/html.svg" alt="html5" class="logo" height=100 width=100/>
-<img src="./images/languages/CSS.svg" alt="css3" class="logo" height=100 width=100/>
-<img src="./images/languages/javascript.svg" alt="javascript" class="logo" height=100 width=100/>
-<img src="./images/languages/typescript.svg" alt="typescript" class="logo" height=100 width=100/>
-<img src="./images/languages/nodejs.svg" alt="nodejs" class="logo" height=100 width=100/>
-<img src="./images/languages/express.svg" alt="express" class="logo" height=100 width=100/>
-<img src="./images/languages/bun.svg" alt="bun" class="logo" height=100 width=100/>
-<img src="./images/languages/firebase.svg" alt="firebase" class="logo" height=100 width=100/>
-<img src="./images/languages/react.svg" alt="react" class="logo" height=100 width=100/>
-<img src="./images/languages/nextjs.svg" style="backgroud-color:white" alt="nextjs" class="logo" height=100 width=100/>
-<img src="./images/languages/tailwindcss.svg" alt="tailwind" class="logo" height=100 width=100/>
-<img src="./images/languages/mysql.svg" alt="mysql" class="logo" height=100 width=100/>
-<img src="./images/languages/postgresql.svg" alt="Postgresql" class="logo" height=100 width=100/>
-<img src="./images/languages/sqllite.svg" alt="sqllite" class="logo" height=100 width=100/>
-<img src="./images/languages/drizzle.svg" alt="drizzle" class="logo" height=100 width=100/>
-<img src="./images/languages/git.svg" alt="git" class="logo" height=100 width=100/> 
-</div>
-</div>
-
-
+<hr/>
