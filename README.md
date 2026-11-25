@@ -39,9 +39,11 @@
 
 ### 🚀 At Outbox Labs, I’m part of a 25-member engineering team contributing to a business that manages over $50 million in revenue. I work on backend development and software that supports the company’s products and operations, where reliability, maintainability, and performance matter.<br/><br/>
 
-### 🛠️ I built <a href="https://github.com/AthithianV/bullastrator">Bullastrator</a>, a native desktop application for managing, inspecting, and monitoring Redis and BullMQ queues. Built with Rust, Tauri, Svelte, and TypeScript, it brings queue management, job inspection, bulk operations, and real-time monitoring into one desktop experience.<br/><br/>
+### 🛠️ I built <a href="https://github.com/AthithianV/bullastrator">Bullastrator</a> because working with BullMQ queues often meant switching between Redis clients, dashboards, logs, and custom scripts just to inspect a job or retry a failure. I wanted a focused developer tool that makes queue management, job inspection, bulk operations, and real-time monitoring available in one desktop experience.
 
-### 💡 I believe good engineering is about understanding problems, making thoughtful technical decisions, and building solutions that deliver real value. I continuously work on improving my engineering skills, exploring systems-level concepts, and building software that solves practical problems.<br/><br/>
+### 💡 For Bullastrator, I chose Rust for its performance, memory efficiency, and compile-time safety, especially for a tool that connects directly to Redis and may handle large numbers of jobs. Tauri allowed me to pair that native Rust core with a modern Svelte and TypeScript interface without the heavier footprint of an Electron application. The tradeoff is a steeper development curve and the extra complexity of bridging native and frontend code, but the result is a lightweight, cross-platform application with a responsive UI and strong control over system resources.<br/><br/>
+
+### 🧠 I believe good engineering is about understanding problems, making thoughtful technical decisions, and building solutions that deliver real value. I continuously work on improving my engineering skills, exploring systems-level concepts, and building software that solves practical problems.<br/><br/>
 
 ### Let's connect! athithianpkt2001@gmail.com
 
