@@ -1,4 +1,4 @@
-![MasterHead](images/banner-github.png)
+<img src="images/banner-github.png" style="border-radius: 10px" alt="Bullastrator repository" />
 
 <div align="center">
 
