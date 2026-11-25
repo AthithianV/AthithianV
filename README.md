@@ -16,9 +16,9 @@
   </a>
 </p>
 
-<p align="center"><font size="6">
+<h5 align="center">
 Backend Engineer working with Rust to build high-performance, reliable, and scalable systems. My focus is on backend engineering, system design, API development, and database management. I also work with TypeScript and modern frontend technologies to build complete applications from backend infrastructure to user interfaces.
-</font></p>
+</h5>
 
 </div>
 
@@ -26,12 +26,13 @@ Backend Engineer working with Rust to build high-performance, reliable, and scal
 <br />
 
 <p align="center">
+    <a href="https://github.com/AthithianV/bullastrator">
+      <img src="https://github-readme-stats-liart-kappa-50.vercel.app/api/pin/?username=AthithianV&repo=bullastrator&bg_color=e2e8f0&title_color=0f172a&text_color=1e293b&icon_color=0284c7&border_color=94a3b8&border_radius=16" alt="Bullastrator repository" />
+    </a>
   <a href="https://github.com/AthithianV/neram">
     <img src="https://github-readme-stats-liart-kappa-50.vercel.app/api/pin/?username=AthithianV&repo=neram&bg_color=e2e8f0&title_color=0f172a&text_color=1e293b&icon_color=0284c7&border_color=94a3b8&border_radius=16" alt="Neram repository" />
   </a>
-  <a href="https://github.com/AthithianV/bullastrator">
-    <img src="https://github-readme-stats-liart-kappa-50.vercel.app/api/pin/?username=AthithianV&repo=bullastrator&bg_color=e2e8f0&title_color=0f172a&text_color=1e293b&icon_color=0284c7&border_color=94a3b8&border_radius=16" alt="Bullastrator repository" />
-  </a>
+
 </p>
 
 <h2 align="center">About me 🦀</h2>
